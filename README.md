@@ -30,4 +30,4 @@ Date created 2016-11-17
 Current version Version 2
 
 
-Thank you the Airbnb to share the dataset which everyone could practice and learn about data science. Finally, thank you for Udacity to arrange the course which support the individual to train the skills during COVID-19.
+Thank you the Airbnb to share the dataset which everyone could practice and learn about data science. Finally, thank you for Udacity to arrange the course which support the individual to train the skills during COVID-19. Thank you Nhi Yen. I could possible to see how should python work from her coding. I am a very beginner to python. So anyone feel free to give a suggestion.
