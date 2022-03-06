@@ -15,7 +15,7 @@ https://www.kaggle.com/airbnb/seattle/data
 
 **How this analysis could help with your project?**
 
-This analysis would help you to see the number of visitors in Seattle which uses Airbnb as a channel of homestay reservation system by month and location. In addition, there is the sharing about the relationship between price and the accomodation types/services. This analysis would be helpful for people which want to see the trend of the market to apply to the business model
+This analysis would help you to see the number of visitors in Seattle which uses Airbnb as a channel of homestay reservation system by month. You could look where is in Seattle which has a crowd homestay. In addition, there is the sharing about the relationship between price and the accomodation types/services. This analysis would be helpful for people which want to see the trend of the market to apply to the business model
 
 **Acknowledgements, Copying, Licenses**
 
